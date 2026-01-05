@@ -3,7 +3,7 @@
 
 🎮 **Playable build available in Releases**
 
----
+![Gameplay Demo](images/gameplay.gif)
 
 ## ✝️ Story & Theme
 
